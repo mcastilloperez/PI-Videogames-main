@@ -1,0 +1,62 @@
+.tituloh1{
+    font-size: 200%;
+    color: #ffffff;
+
+}
+
+.tituloM {
+    font-size: 200%;
+    color: #ffffff;
+   }
+
+.descrip{
+    color: rgb(255, 166, 0);
+    background-color: rgba(0, 0, 0, 0.592);
+}
+
+.descripV{
+    color: rgb(255, 166, 0);
+    font-size:200%;
+}
+
+
+
+.titulosM{
+    color: white;
+}
+
+.textM{
+    width: 500px;
+
+}
+
+.cuerpo{
+    margin-top: 2%;
+}
+
+
+.mod{
+    border-color: rgb(4, 101, 139);
+    color: #ffffff;
+    background-color: black;
+    margin-bottom: 20px;
+    font-size:small;
+    border-radius: 20px 20px 20px 20px;
+    width: 100px;
+    height: 40px;
+    
+   }
+
+
+   
+.mod:hover{
+    cursor: pointer;
+    box-shadow: 2px 2px 40px rgba(247, 0, 255, 0.5);
+   }
+
+   .mod:active{
+    color:black;
+    background-color:white;
+    font-size: 90%;
+    box-shadow: 2px 2px 40px rgba(247, 0, 255, 0.5);
+   }
